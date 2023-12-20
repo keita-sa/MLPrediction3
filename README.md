@@ -1,5 +1,5 @@
 
-# Stock Price Prediction Web Application
+# Stock Price Prediction Web Application in Software Engineering
 
 ## Overview
 This application is a Flask-based web service that predicts stock prices using a Long Short-Term Memory (LSTM) neural network. It utilizes historical stock data fetched from Yahoo Finance (`yfinance` library) and employs `keras` for building and training the LSTM model.
